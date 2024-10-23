@@ -63,4 +63,4 @@
 - **Data Source**: This project uses data from the [International Skin Imaging Collaboration (ISIC)](https://drive.google.com/drive/folders/1rfdJBsUWsjcBpojRrnfUjZJNtw5HzYVo?usp=drive_link)
 
 ## Contact
-Created by [@Ankan Putatunda] - If you have questions or suggestions, feel free to reach out!
+Created by [@aputatun] - If you have questions or suggestions, feel free to reach out!
